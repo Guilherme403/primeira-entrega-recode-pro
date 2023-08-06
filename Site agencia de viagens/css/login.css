@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:100px;
+}
+
+
+h{
+   text-align: center;
+}
+
+p{
+   padding: 15px; 
+}
+
+.form-label{
+   width: 400px;
+
+}
+ 

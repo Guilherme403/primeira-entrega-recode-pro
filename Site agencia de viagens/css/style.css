@@ -1,0 +1,30 @@
+
+ .card-body{
+    background-color: #0097b2;
+  }
+ 
+  p{
+    color:#fff;
+  }
+
+  .card-title{
+    color:#fff;
+  }
+ .flex-container {
+  display: flex;
+  justify-content: space-around;
+   padding-top: 80px;
+}
+
+rounded mx-auto d-block{
+  width: 200px;
+  height: 200px;
+  padding: 100px;
+}
+
+#bem-vindo{
+  text-align: center;
+  
+}
+ 
+
