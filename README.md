@@ -1,73 +1,75 @@
-# Agência de Viagens - Front-end
+# Agência de Viagens - Site
 
-Este documento descreve o desenvolvimento do front-end da aplicação web para a Agência de Viagens. O front-end é construído com HTML5, CSS3 e Bootstrap para criar um layout responsivo e moderno.
+Este documento descreve o desenvolvimento do front-end da aplicação web para a Agência de Viagens. O site foi projetado para ser moderno, responsivo e intuitivo, utilizando HTML5, CSS3 e Bootstrap.
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Para estruturar o conteúdo das páginas.
-- **CSS3**: Para estilização e layout do site.
+- **HTML5**: Estrutura semântica das páginas.
+- **CSS3**: Estilização e layout do site.
 - **Bootstrap**: Framework CSS para garantir a responsividade e o design moderno.
 
 ## Estrutura do Site
 
-O site é composto pelas seguintes páginas principais:
+O site é composto pelas seguintes páginas principais, cada uma com um propósito específico e design otimizado para uma melhor experiência do usuário:
 
 ### 1. Home
 
-- **Descrição**: Página inicial com uma visão geral da agência, incluindo destaques e informações principais.
-- **Elementos Principais**:
-  - Menu de navegação no header.
-  - Seções com destaques e informações sobre a agência.
-  - Rodapé com informações de contato e links úteis.
+- **Descrição**: Página inicial que apresenta uma visão geral da agência, com destaques sobre serviços e ofertas.
+- **Características**:
+  - Menu de navegação no topo com links para outras páginas.
+  - Seções destacando os principais serviços e promoções.
+  - Rodapé com informações de contato e links para redes sociais.
 
 ### 2. Ofertas
 
-- **Descrição**: Página dedicada a exibir promoções e ofertas especiais da agência.
-- **Elementos Principais**:
-  - Listagem de ofertas com detalhes.
-  - Seção de filtros para refinar a busca por promoções.
+- **Descrição**: Página dedicada a listar e promover ofertas especiais e pacotes de viagem.
+- **Características**:
+  - Exibição de ofertas em uma lista ou grade.
+  - Detalhes das ofertas, como preços, datas e descrições.
+  - Seções para filtrar e pesquisar ofertas por categoria ou preço.
 
 ### 3. Destinos
 
-- **Descrição**: Página para listar todos os destinos disponíveis para reserva.
-- **Elementos Principais**:
-  - Listagem de destinos com informações e imagens.
-  - Seção de busca para facilitar a localização de destinos específicos.
+- **Descrição**: Página que apresenta todos os destinos disponíveis para reserva.
+- **Características**:
+  - Lista de destinos com informações detalhadas e imagens.
+  - Seções para busca e filtragem de destinos por localização ou tipo.
 
 ### 4. Contato
 
-- **Descrição**: Página com informações de contato e um formulário para enviar mensagens.
-- **Elementos Principais**:
-  - Formulário de contato com campos para nome, email e mensagem.
-  - Informações de contato da agência, como telefone e endereço.
+- **Descrição**: Página com informações de contato e um formulário para envio de mensagens para a agência.
+- **Características**:
+  - Formulário de contato com campos para nome, e-mail, telefone e mensagem.
+  - Informações adicionais como endereço físico e telefone da agência.
 
 ### 5. Entre ou Cadastre-se
 
 - **Descrição**: Página para login de usuários existentes e registro de novos usuários.
-- **Elementos Principais**:
-  - Formulário de login para usuários existentes.
-  - Formulário de registro para novos usuários.
+- **Características**:
+  - Formulário de login para acesso a contas existentes.
+  - Formulário de cadastro para novos usuários, com campos para informações pessoais e criação de senha.
 
 ## Layout e Design
 
-- **Menu Horizontal**: Fixado na parte superior de todas as páginas, com links para Home, Ofertas, Destinos, Contato e Entre ou Cadastre-se.
-- **Responsividade**: O layout é projetado para ser responsivo, garantindo uma boa visualização em dispositivos móveis e desktops.
-- **Estilização**: Utiliza a paleta de cores escolhida para manter a identidade visual da agência e melhorar a experiência do usuário.
+- **Menu Horizontal**: Fixado no topo de todas as páginas, fornecendo fácil acesso a Home, Ofertas, Destinos, Contato e Entre ou Cadastre-se.
+- **Responsividade**: O design é totalmente responsivo, adaptando-se a diferentes tamanhos de tela, de desktops a dispositivos móveis.
+- **Estilização**: Utiliza a paleta de cores definida para manter a consistência visual e reforçar a identidade da agência.
 
 ## Instruções de Desenvolvimento
 
 1. **Estrutura HTML**:
-   - Utilize tags semânticas HTML5 para garantir acessibilidade e boa organização do conteúdo.
-   - Implemente a estrutura básica de cada página, incluindo header, conteúdo principal e footer.
+   - Utilize tags semânticas para garantir acessibilidade e uma boa estruturação do conteúdo.
+   - Inclua um header fixo com o menu de navegação e seções para o conteúdo principal.
 
 2. **Estilização CSS**:
-   - Aplique estilos personalizados usando CSS3 para garantir consistência visual.
-   - Utilize Bootstrap para criar um layout fluido e adaptável.
+   - Aplique estilos personalizados para complementar o design e garantir a consistência visual.
+   - Use CSS3 para adicionar efeitos visuais e melhorar a experiência do usuário.
 
 3. **Integração com Bootstrap**:
-   - Inclua o Bootstrap para aproveitar os componentes e garantir um design responsivo.
+   - Utilize as classes e componentes do Bootstrap para criar um layout responsivo e aproveite a funcionalidade dos componentes pré-estilizados.
 
 ## Notas Adicionais
 
-- O site foi projetado para ser intuitivo e fácil de navegar.
-- As páginas foram testadas para garantir a compatibilidade com diferentes navegadores e dispositivos.
+- **Acessibilidade**: O site foi projetado com a acessibilidade em mente, utilizando tags HTML semânticas e contrastes adequados.
+- **Compatibilidade**: Testado para garantir a compatibilidade com os principais navegadores e dispositivos.
+
